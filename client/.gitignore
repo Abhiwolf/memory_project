@@ -1,0 +1,40 @@
+# Dependency directories
+node_modules
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# Operating system files
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+install_nvm.sh
+
+# Logs
+logs
+
+# Storybook coverage files
+storybook-coverage
+
+# Jest reult
+.jest-test-results.json
+test-report.html
+
+# Distribution
+dist-esm
+dist
+build
+
+# logs
+lerna-debug.log
+yarn-error.log
+
+# IDE
+.vscode
+.idea
+.dccache
+package-lock.json
+yarn.lock
